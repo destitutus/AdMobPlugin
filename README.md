@@ -1,7 +1,7 @@
 AdMobPlugin
 ===========
 
-This is a prototype of a cross-platform Local Notification Cordova plugin. Android,
+This is a prototype of a cross-platform Adv Cordova plugin. Android,
 iOS and WindowsPhone7 are currently supported
 
 ## AdMob Plugin JavaScript API
