@@ -55,7 +55,7 @@ Example:
 		<parameter name="AD_MOB_IOS_AD_UNIT_ID" value="IOS_PUBLISHER_ID_HERE" platform="ios"/>
 		<parameter name="AD_MOB_WP_AD_UNIT_ID" value="WP7_PUBLISHER_ID_HERE" platform="winphone"/>
 		<parameter name="AD_MOB_ON_TOP" value="true" />
-		<parameter name="AD_MOB_FORSE_START" value="true" />
+		<parameter name="AD_MOB_FORCE_START" value="true" />
 		<parameter name="AD_MOB_DEBUG" value="true" />
 	</gap:plugin>
 	
@@ -75,7 +75,7 @@ Windows Phone 7 Publisher ID from http://www.admob.com/
 
 If value is `true` adv was shown on top, if `false` - on bottom
 
-#### AD_MOB_FORSE_START
+#### AD_MOB_FORCE_START
 
 If value is `true` adv was shown after start application, if `false` - _after_ call `window.plugins.AdMob.start` function
 
